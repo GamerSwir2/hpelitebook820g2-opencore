@@ -766,24 +766,6 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>IntelBluetoothInjector.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
 				<string>ECEnabler.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -1285,7 +1267,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02517300J9FV36JC</string>
+			<string>C02552600CDFV361H</string>
 			<key>ProcessorType</key>
 			<integer>2822</integer>
 			<key>ROM</key>
@@ -1297,9 +1279,9 @@
 			<key>SystemProductName</key>
 			<string>MacBook8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02PM0R2GCN3</string>
+			<string>C02QW6Y9GCN3</string>
 			<key>SystemUUID</key>
-			<string>B3B9CDFF-8521-45D2-82EF-86DBB1E832D9</string>
+			<string>EA7BC203-D988-4BC6-B4AB-C6107BA7C108</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
