@@ -1267,9 +1267,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02552600CDFV361H</string>
+			<string>C02542401GUGDVVAD</string>
 			<key>ProcessorType</key>
-			<integer>2822</integer>
+			<integer>1542</integer>
 			<key>ROM</key>
 			<data>zHhfd2/T</data>
 			<key>SpoofVendor</key>
@@ -1277,11 +1277,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBook8,1</string>
+			<string>MacBookPro12,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02QW6Y9GCN3</string>
+			<string>C02QKYZTH1DP</string>
 			<key>SystemUUID</key>
-			<string>EA7BC203-D988-4BC6-B4AB-C6107BA7C108</string>
+			<string>FE84B163-6149-4D66-BE93-C07E781084B9</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
